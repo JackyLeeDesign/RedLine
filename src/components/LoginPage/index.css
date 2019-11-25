@@ -1,0 +1,34 @@
+.title {
+  text-align: center;
+  margin-top: 30%;
+}
+.title img {
+  width: 36%;
+}
+.input {
+  text-align: center;
+  margin-top: 10%;
+}
+.input img {
+  width: 75%;
+}
+.signIn {
+  text-align: center;
+  margin-top: 10%;
+}
+.signIn img {
+  width: 75%;
+}
+.loginBottomText {
+  text-align: center;
+  margin-top: 10%;
+}
+.loginBottomText img {
+  width: 50%;
+}
+.loginPage {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #f4f4f4;
+}

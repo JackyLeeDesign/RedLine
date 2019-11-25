@@ -1,0 +1,21 @@
+.mapPage {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background: #ffffff;
+}
+.mapTitle {
+  width: 100%;
+  background: #ffffff;
+}
+.mapTitle .mapTitleName {
+  width: 100%;
+}
+.mapMap {
+  margin-top: 10px;
+  padding: 25px;
+}
+.mapMap img {
+  width: 100%;
+}

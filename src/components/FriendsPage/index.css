@@ -1,0 +1,21 @@
+.friendsPage {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background: #ffffff;
+}
+.friendsTitle {
+  width: 100%;
+  background: #ffffff;
+}
+.friendsTitle .friendsTitleName {
+  width: 100%;
+}
+.friendsList {
+  width: 100%;
+  text-align: center;
+}
+.friendsList img {
+  width: 100%;
+}
