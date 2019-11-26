@@ -24,7 +24,7 @@ class FriendsPage extends Component {
         <div className={style.friendsList} onClick={() => changePic()}>
           <img src={this.state.currentPic}></img>
         </div>
-        <BottomMenu selectIconName="Profile" changePage={changePage} />
+        <BottomMenu selectIconName="Friends" changePage={changePage} />
       </div>
     );
   }
